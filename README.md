@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Ali Hoveizavi</h1>
-<h3 align="center">💻 A little more about me 💻</h3>
 
 
 ```Python
