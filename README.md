@@ -2,14 +2,43 @@
 
 
 ```Python
-class Ahoveizavi:
-    def __init__(self):
-        self.name = "Ali Hoveizavi"
-        self.nickname = "AHove"
-        self.personality = "quiet"
-        self.hobbies = "just coding..."
+# Python
 
-    def __str__(self):
-        return "I'm Ali Hoveizavi"
+ahoveizavi = {
+    "name": "Ali Hoveizavi",
+    "nickname": "AHove",
+    "age": 16,
+    "spoken languages": [
+        "Arabic",
+        "English",
+        "Persian"
+    ],
+    "programming languages": [
+        "Python",
+        "JavaScript"
+    ],
+    "hobbies": "just coding..."
+}
+
+```
+
+```JavaScript
+// JavaScript
+
+const ahoveizavi = {
+    name: "Ali Hoveizavi",
+    nickname: "AHove",
+    age: 16,
+    spokenLanguages: [
+        "Arabic",
+        "English",
+        "Persian"
+    ],
+    programmingLanguages: [
+        "Python",
+        "JavaScript"
+    ],
+    hobbies: "just coding..."
+};
 
 ```
